@@ -2,7 +2,7 @@
 
 ## Overview
 
-0DEEPFAKE is an advanced deepfake generation tool that leverages state-of-the-art machine learning techniques to create highly realistic synthetic media. This project is designed for educational and research purposes, providing a platform for experimenting with deepfake technologies and understanding their implications.
+DEEPFAKE is an advanced deepfake generation tool that leverages state-of-the-art machine learning techniques to create highly realistic synthetic media. This project is designed for educational and research purposes, providing a platform for experimenting with deepfake technologies and understanding their implications.
 
 **Note:** The use of deepfake technology can raise ethical concerns. Please ensure you use this tool responsibly and in compliance with all relevant laws and regulations.
 
@@ -26,5 +26,5 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Vamshi36819/0DEEPFAKE.git
+   git clone https://github.com/Vamshi36819/DEEPFAKE.git
    cd 0DEEPFAKE
